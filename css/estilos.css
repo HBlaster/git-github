@@ -1,0 +1,42 @@
+body {
+    background: #3b3b57;
+    text-align: left;
+    font-family: Arial;
+    color: #333;
+    font-size: 15px;
+}
+#container {
+    background: rgb(61, 160, 140);;
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid rgb(185, 164, 185);
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+#container h1{
+    font-size: 60px;
+
+}
+#container p{
+    color: rgb(27, 53, 53);
+    text-align: center;
+}
+
+#cabecera {
+    background: #445;
+    box-shadow: pink 0px 5px 30px;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+    text-align: center;
+}
+
+#cabecera #tagline {
+    padding: 1em 0 0 0;
+    font-weight: normal;
+    font-size: 0.8em;
+
+}
